@@ -70,3 +70,15 @@ This will return the NNF from vid1 to vid2, and the NNF diversity metric.
 
 Please check out the notebook ```nnfdiv_viz.ipynb``` for visualizing NNFs (as shown in 
 [SinFusion project page](https://yaniv.nikankin.com/sinfusion/static/experiments.html))
+
+<hr>
+
+### Citation
+If you find our project useful for your work please cite:
+
+```
+@inproceedings{nikankin2022sinfusion,
+  title={SinFusion: Training Diffusion Models on a Single Image or Video},
+  author={Nikankin, Yaniv and Haim, Niv and Irani, Michal},
+  booktitle={International Conference on Machine Learning},
+  organization={PMLR},
