@@ -1,4 +1,4 @@
-# __author__ = "Ben Feinstein (ben.feinstein@weizmann.ac.il)"
+__author__ = "Ben Feinstein (ben.feinstein@weizmann.ac.il)"
 
 from typing import Iterable
 import torch
