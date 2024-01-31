@@ -77,8 +77,12 @@ Please check out the notebook ```nnfdiv_viz.ipynb``` for visualizing NNFs (as sh
 If you find our project useful for your work please cite:
 
 ```
-@inproceedings{nikankin2022sinfusion,
-  title={SinFusion: Training Diffusion Models on a Single Image or Video},
-  author={Nikankin, Yaniv and Haim, Niv and Irani, Michal},
-  booktitle={International Conference on Machine Learning},
-  organization={PMLR},
+@misc{ResizeRight,
+  author={Haim, Niv and Feinstein, Ben and Nikankin, Yaniv and Irani, Michal},
+  title={NNFDIV: A Nearest-Neighbour-Field Approach for Quantifying Diversity of Generated Samples},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/nivha/nnf_diversity}},
+}
+```
