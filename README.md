@@ -77,7 +77,7 @@ Please check out the notebook ```nnfdiv_viz.ipynb``` for visualizing NNFs (as sh
 If you find our project useful for your work please cite:
 
 ```
-@misc{ResizeRight,
+@misc{haim2023nnfdiv,
   author={Haim, Niv and Feinstein, Ben and Nikankin, Yaniv and Irani, Michal},
   title={NNFDIV: A Nearest-Neighbour-Field Approach for Quantifying Diversity of Generated Samples},
   year = {2023},
